@@ -1,2 +1,1 @@
-# 13_E_Commerce
-The back end for an e-commerce site.
+# E-commerce Back End Starter Code
